@@ -18,3 +18,35 @@ Tourism is one of the activities carried out by the community after the Covid-19
 | Muhammad Sandy Putra Riyadi| C081DSX2016 | Cloud Computing  |
 
 # Resource
+Our project have some repositories based on learning path
+<ul>
+    <li><a href="https://github.com/Six-Kizuki-to-the-moon/Machine-Learning">Machine Learning</a></li>
+    <li><a href="https://github.com/Six-Kizuki-to-the-moon/tourista-api">Cloud Computing</a></li>
+    <li><a href="https://github.com/Six-Kizuki-to-the-moon/Tourista-API-Documentation">Documentation Tourista API</a></li>
+    <li><a href="https://github.com/Six-Kizuki-to-the-moon/Tourista-App">Mobile Development</a></li>
+</ul>
+
+# Technology Used
+1. Machine Learing
+    - <a href="https://www.tensorflow.org/">Tensorflow</a>
+    - <a href="https://scikit-learn.org/">Scikit-learn</a>
+    - <a href="https://www.python.org/">Python</a>
+    - <a href="https://flask.palletsprojects.com/">Flask</a>
+2. Cloud Computing
+
+3. Mobile Development
+    - <a href="https://kotlinlang.org/">Kotlin</a>
+4. UI & UX
+    - <a href="https://www.figma.com/">Figma</a>
+
+# Contact
+| Name                       | Contact     |
+|----------------------------|------------ |
+| Mochammed Daffa El Ghifari |             |
+| Dewa Putra Hernanda        |             |
+| Fadhila Salsabila          |             |
+| Nur Fauzi                  |             |
+| Ahmad Azfa Dzulfaqar       |             |
+| Muhammad Sandy Putra Riyadi|             |
+
+# Acknowledgments
