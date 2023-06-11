@@ -35,7 +35,18 @@ Our project have some repositories based on learning path
     - <a href="https://www.python.org/">Python</a>
     - <a href="https://flask.palletsprojects.com/">Flask</a>
 2. Cloud Computing
-
+    - [Express](https://expressjs.com/)
+    - [Mysql2](https://www.npmjs.com/package/mysql2)
+    - [Sequelize](https://sequelize.org/)
+    - [JSON Web Tokens](https://jwt.io/)
+    - [Dotenv](https://www.dotenv.org/)
+    - [Bcrypt](https://www.npmjs.com/package/bcrypt)
+    - [Cookie Parser](https://www.npmjs.com/package/cookie-parser)
+    - [Body Parser](https://www.npmjs.com/package/body-parser)
+    - [Multer](https://www.npmjs.com/package/multer)
+    - [@google-cloud/storage](https://www.npmjs.com/package/@google-cloud/storage)
+    - [CORS](https://www.npmjs.com/package/cors)
+    - [Nodemon](https://nodemon.io/)
 3. Mobile Development
     - <a href="https://kotlinlang.org/">Kotlin</a>
 4. UI & UX
