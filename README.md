@@ -52,3 +52,4 @@ Our project have some repositories based on learning path
 | Muhammad Sandy Putra Riyadi|             |
 
 # Acknowledgments
+![Bangkit Academy!](/logo/bangkit-logo.png)
