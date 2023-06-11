@@ -1,4 +1,4 @@
-(/logo/tourista_logo_large.png)
+![Tourista App Logo!](/logo/tourista_logo_large.png)
 
 # Tourista Apps
 Tourista : Tourista Github Repository for Bangkit Academy 2023 Capstone Project from 3 learning path <br>
