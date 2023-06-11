@@ -1,3 +1,5 @@
+(/logo/tourista_logo_large.png)
+
 # Tourista Apps
 Tourista : Tourista Github Repository for Bangkit Academy 2023 Capstone Project from 3 learning path <br>
 Machine Learning, Mobile Development, Clour Computing from team C23-PR509.
