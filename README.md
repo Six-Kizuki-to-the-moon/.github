@@ -59,7 +59,7 @@ Our project have some repositories based on learning path
 | Dewa Putra Hernanda        |             |
 | Fadhila Salsabila          |             |
 | Nur Fauzi                  |             |
-| Ahmad Azfa Dzulfaqar       |             |
+| Ahmad Azfa Dzulfaqar       |[My Linktree](https://linktr.ee/MusketeerHD)             |
 | Muhammad Sandy Putra Riyadi|             |
 
 # Acknowledgments
