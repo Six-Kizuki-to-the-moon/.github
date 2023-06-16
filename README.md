@@ -55,12 +55,12 @@ Our project have some repositories based on learning path
 # Contact
 | Name                       | Contact     |
 |----------------------------|------------ |
-| Mochammed Daffa El Ghifari |             |
-| Dewa Putra Hernanda        |             |
-| Fadhila Salsabila          |             |
-| Nur Fauzi                  |             |
+| Mochammed Daffa El Ghifari |<a href="https://www.linkedin.com/in/daffa-el-ghifari-b05377208/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>             |
+| Dewa Putra Hernanda        |<a href="https://www.linkedin.com/in/dewa-putra-hernanda-147a99202/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>             |
+| Fadhila Salsabila          |<a href="https://www.linkedin.com/in/fadhilasalsabila/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>             |
+| Nur Fauzi                  |<a href="https://www.linkedin.com/in/nur-fauzi-864159203/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>             |
 | Ahmad Azfa Dzulfaqar       |[My Linktree](https://linktr.ee/MusketeerHD)             |
-| Muhammad Sandy Putra Riyadi|             |
+| Muhammad Sandy Putra Riyadi|<a href="https://www.linkedin.com/in/msandypr/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>              |
 
 # Acknowledgments
 ![Bangkit Academy!](/logo/bangkit-logo.png)
