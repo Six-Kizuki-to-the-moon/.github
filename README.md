@@ -59,7 +59,7 @@ Our project have some repositories based on learning path
 | Dewa Putra Hernanda        |<a href="https://www.linkedin.com/in/dewa-putra-hernanda-147a99202/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>             |
 | Fadhila Salsabila          |<a href="https://www.linkedin.com/in/fadhilasalsabila/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>             |
 | Nur Fauzi                  |<a href="https://www.linkedin.com/in/nur-fauzi-864159203/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>             |
-| Ahmad Azfa Dzulfaqar       |<a href="kedin.com/in/ahmad-azfa-dzulfaqar/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>             |
+| Ahmad Azfa Dzulfaqar       |<a href="linkedin.com/in/ahmad-azfa-dzulfaqar/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>             |
 | Muhammad Sandy Putra Riyadi|<a href="https://www.linkedin.com/in/msandypr/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>              |
 
 # Acknowledgments
